@@ -97,3 +97,9 @@ INSTALLED plugins/pipeline-milestone-step.jpi : 111.v449306f708b_7
 SKIPPED plugins/docker-workflow.jpi : Installed version (563.vd5d2e5c4007f) has been manually upgraded from initial version (521.v1a_a_dd2073b_2e)
 --- Copying files at Tue Jun  6 16:06:43 UTC 2023
 SKIPPED plugins/docker-workflow.jpi : Installed version (563.vd5d2e5c4007f) has been manually upgraded from initial version (521.v1a_a_dd2073b_2e)
+--- Copying files at Tue Jun  6 17:34:58 UTC 2023
+SKIPPED plugins/docker-workflow.jpi : Installed version (563.vd5d2e5c4007f) has been manually upgraded from initial version (521.v1a_a_dd2073b_2e)
+--- Copying files at Wed Jun  7 16:48:37 UTC 2023
+SKIPPED plugins/docker-workflow.jpi : Installed version (563.vd5d2e5c4007f) has been manually upgraded from initial version (521.v1a_a_dd2073b_2e)
+--- Copying files at Thu Jun  8 01:49:13 UTC 2023
+SKIPPED plugins/docker-workflow.jpi : Installed version (563.vd5d2e5c4007f) has been manually upgraded from initial version (521.v1a_a_dd2073b_2e)
